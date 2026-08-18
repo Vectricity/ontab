@@ -3,6 +3,7 @@
 ## Core Features:
 
 - Suspending tabs
+- Restoring suspended tabs
 
 ## UX/UI Features
 
