@@ -2,13 +2,13 @@
 
 ## Screenshots
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-placeholder_page.jpg"
        alt="OnTab suspended tab placeholder"
        width="760">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-popup-empty.jpg"
        alt="OnTab empty popup"
        width="380">
@@ -17,7 +17,7 @@
        width="380">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-popup-settings-defaults.jpg"
        alt="OnTab default settings"
        width="380">
@@ -26,7 +26,7 @@
        width="380">
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-tab_options.jpg"
        alt="OnTab tab options"
        width="380">
