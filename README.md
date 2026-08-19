@@ -1,5 +1,40 @@
 # Chrome Extension - OnTab
 
+## Screenshots
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-placeholder_page.jpg"
+       alt="OnTab suspended tab placeholder"
+       width="760">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-popup-empty.jpg"
+       alt="OnTab empty popup"
+       width="380">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-popup-populated.jpg"
+       alt="OnTab popup with suspended tabs"
+       width="380">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-popup-settings-defaults.jpg"
+       alt="OnTab default settings"
+       width="380">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-popup-settings.jpg"
+       alt="OnTab settings"
+       width="380">
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-tab_options.jpg"
+       alt="OnTab tab options"
+       width="380">
+  <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-page_options.jpg"
+       alt="OnTab extension page options"
+       width="380">
+</p>
+
 ## Core Features:
 
 - Suspending tabs
