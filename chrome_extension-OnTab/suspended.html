@@ -1,0 +1,76 @@
+<!-- Author: Genisai
+Source: https://github.com/Vectricity/ontab -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Suspended Tab</title>
+  <link id="pageFavicon" rel="icon" href="icons/tab-placeholder-16.png">
+  <script src="suspended.js"></script>
+  <link rel="stylesheet" href="suspended.css">
+</head>
+<body>
+  <div class="page-frame">
+    <img class="brand-mark" src="icons/icon-256.png" alt="OnTab">
+
+    <main class="suspended-page">
+    <header class="hero" aria-labelledby="heroTitle">
+      <div class="hero-heading">
+        <h1 id="heroTitle">YOUR TAB IS BEING HELD</h1>
+      </div>
+      <div class="hero-subtitle" aria-hidden="true">
+        <span></span>
+        <p>WE'LL KEEP YOUR SPOT WARM.</p>
+        <span></span>
+      </div>
+      <div class="ornament" aria-hidden="true"><i></i><b>◇</b><i></i></div>
+    </header>
+
+    <section class="bar-stage" aria-label="OnTab bar scene">
+      <img class="scene-art" src="assets/bar-scene.webp" alt="Illustrated bar with seated patrons and a guest raising his hand for the bartender">
+      <img class="scene-overlay" src="assets/scene-overlay.png" alt="" aria-hidden="true">
+    </section>
+
+    <section class="details-region" aria-labelledby="sectionTitle">
+      <div class="section-rule">
+        <span></span>
+        <h2 id="sectionTitle">SUSPENDED TAB</h2>
+        <span></span>
+      </div>
+
+      <div class="page-card">
+        <div class="favicon-medallion">
+          <img id="favicon" src="assets/globe.png" alt="Page icon">
+        </div>
+        <div class="page-copy">
+          <div class="page-title" id="title">Suspended Tab</div>
+          <a class="url" id="url">—</a>
+        </div>
+        <div class="card-status status-time">
+          <div class="status-label">PUT ON YOUR TAB</div>
+          <div class="meta" id="meta">—</div>
+        </div>
+      </div>
+
+      <div class="status-row">
+        <div class="status-block status-ready">
+          <div class="status-label">READY WHENEVER YOU ARE.</div>
+          <div class="mini-ornament" aria-hidden="true"><span></span><b>◇</b><span></span></div>
+        </div>
+      </div>
+
+      <button id="restoreBtn" class="restore-button" type="button">
+        <span>RESTORE TAB</span>
+      </button>
+
+      <div class="hint">
+        <span class="mouse-mark" aria-hidden="true"><i></i></span>
+        <span>You can also right-click this tab and choose “Restore Tab.”</span>
+      </div>
+    </section>
+    </main>
+  </div>
+
+</body>
+</html>
