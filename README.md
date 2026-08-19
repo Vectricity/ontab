@@ -11,6 +11,9 @@
 - Left click pinned OnTab extension for Suspend/Restore Tab options
 - Suspended page Title, URL (clickable link), favicon, and timestamp displayed prominently
 - Suspended page Restore Tab button
+- Settings
+  - Suspended tabs Icon/Title configuration
+  - Restore All Tabs button
 
 Please consider tipping a job well done. 
 
