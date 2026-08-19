@@ -53,8 +53,10 @@
        width="380">
 </p>
 
-Please consider tipping a job well done. 
+## Support The Developer
+
+**Enjoying the extension? Please consider tipping a job well done, <ins>it helps me feed my family</ins>.**
 
 <a href="https://ko-fi.com/genisai">
-  <img src="https://github.com/Vectricity/st-aspect-destinia/raw/assets/assets/ko-fi_thumbnail_genisai.png" alt="Support Genisai on Ko-fi" width="400">
+  <img src="https://github.com/Vectricity/st-aspect-destinia/raw/assets/assets/ko-fi_thumbnail_genisai.png" alt="Support Genisai on Ko-fi" width="380">
 </a>
