@@ -1,6 +1,24 @@
-# Chrome Extension - OnTab
+<h1>
+  <sup><img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-icon.png" width="48" align="middle" alt="OnTab"></sup>
+  Chrome Extension - OnTab
+</h1>
 
-## Screenshots
+## Core Features:
+
+- Suspending tabs
+- Restoring suspended tabs
+
+## UX/UI Features:
+
+- Right click tab or page to use Suspend/Restore Tab options
+- Left click pinned OnTab extension for Suspend/Restore Tab options
+- Suspended page Title, URL (clickable link), favicon, and timestamp displayed prominently
+- Suspended page Restore Tab button
+- Settings
+  - Suspended tabs Icon/Title configuration
+  - Restore All Tabs button
+
+## Screenshots:
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/Vectricity/ontab/assets/assets/extension-placeholder_page.jpg"
@@ -34,21 +52,6 @@
        alt="OnTab extension page options"
        width="380">
 </p>
-
-## Core Features:
-
-- Suspending tabs
-- Restoring suspended tabs
-
-## UX/UI Features
-
-- Right click tab or page to use Suspend/Restore Tab options
-- Left click pinned OnTab extension for Suspend/Restore Tab options
-- Suspended page Title, URL (clickable link), favicon, and timestamp displayed prominently
-- Suspended page Restore Tab button
-- Settings
-  - Suspended tabs Icon/Title configuration
-  - Restore All Tabs button
 
 Please consider tipping a job well done. 
 
